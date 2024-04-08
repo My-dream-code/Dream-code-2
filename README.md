@@ -1,7 +1,7 @@
 # Dream-code-2
 Generates username and password using personal information 
 Usage
-
+ 
 	1.	Navigate to the project directory.
 	2.	Run the script generate_credentials.py.
 	3.	Follow the prompts to input your personal information.
