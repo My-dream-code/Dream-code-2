@@ -8,7 +8,7 @@ Usage
 	4.	The script will generate a username and password based on the provided information.
 
 Contributing
-
+n
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 Project Roadmap
